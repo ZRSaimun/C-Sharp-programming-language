@@ -1,0 +1,22 @@
+D:\FoolGame\FoolGame\bin\Debug\FoolGame.exe.config
+D:\FoolGame\FoolGame\bin\Debug\FoolGame.exe
+D:\FoolGame\FoolGame\bin\Debug\FoolGame.pdb
+D:\FoolGame\FoolGame\obj\Debug\FoolGame.csprojResolveAssemblyReference.cache
+D:\FoolGame\FoolGame\obj\Debug\FoolGame.Form1.resources
+D:\FoolGame\FoolGame\obj\Debug\FoolGame.GForm.resources
+D:\FoolGame\FoolGame\obj\Debug\FoolGame.LForm.resources
+D:\FoolGame\FoolGame\obj\Debug\FoolGame.Properties.Resources.resources
+D:\FoolGame\FoolGame\obj\Debug\FoolGame.csproj.GenerateResource.Cache
+D:\FoolGame\FoolGame\obj\Debug\FoolGame.exe
+D:\FoolGame\FoolGame\obj\Debug\FoolGame.pdb
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\bin\Debug\FoolGame.exe.config
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\bin\Debug\FoolGame.exe
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\bin\Debug\FoolGame.pdb
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\obj\Debug\FoolGame.Form1.resources
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\obj\Debug\FoolGame.GForm.resources
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\obj\Debug\FoolGame.LForm.resources
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\obj\Debug\FoolGame.Properties.Resources.resources
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\obj\Debug\FoolGame.csproj.GenerateResource.cache
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\obj\Debug\FoolGame.exe
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\obj\Debug\FoolGame.pdb
+D:\AIUB-CS\8th semester\C#\FoolGame\FoolGame\FoolGame\obj\Debug\FoolGame.csprojResolveAssemblyReference.cache
